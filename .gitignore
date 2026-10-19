@@ -1,0 +1,25 @@
+# Secrets must never be committed
+*.jks
+*.keystore
+*.p12
+*private*.pem
+.env
+.env.*
+*token*
+*password*
+owner-recovery*
+# Local tooling and generated outputs
+build/
+artifacts/
+node_modules/
+.cache/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+local.properties
+# Large design scratch image; optimized artwork and final screenshots are included
+design/bhandara-source.png
+
+# Intermediate emulator captures are not release assets
+design/screenshots/android-*.png

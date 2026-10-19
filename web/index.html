@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=5,viewport-fit=cover">
+<meta name="theme-color" content="#f8f9f6">
+<meta name="description" content="Seva Saathi — a private, offline-first daily seva journal and Bhandara companion.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; font-src 'self'; connect-src 'none'; media-src 'none'; frame-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>Seva Saathi · Your everyday companion</title>
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="app.css">
+<script src="i18n.js" defer></script>
+<script src="app.js" defer></script>
+</head>
+<body>
+<div id="splash" class="splash" aria-hidden="true"><div class="splash-mark"><img src="assets/logo.svg" alt=""></div><strong>seva saathi<span>सेवा साथी</span></strong><div class="splash-line"></div></div>
+<div class="desktop-brand"><a href="#today" class="wordmark"><img src="assets/logo.svg" alt="">seva saathi<span>YOUR EVERYDAY COMPANION</span></a><div class="desktop-intro"><span class="eyebrow">A SMALL ACT. A MEANINGFUL DAY.</span><h1>Made for seva.<br>Made for you.</h1><p>A little space to remember the good you do. Private, peaceful, and always by your side.</p><div class="brand-rule"></div><span class="native-feature">◈ &nbsp; Offline first. Thoughtfully simple.</span></div><div class="desktop-bottom">For the sangat, with care.<span>Independent community app · v1.0.0</span></div></div>
+<div class="app-shell">
+<div id="preview-banner" class="preview-banner" hidden><span>Interactive preview · sample entries</span><button id="clear-preview" type="button">Start fresh <span aria-hidden="true">↗</span></button></div>
+<header id="app-header"></header>
+<main id="main" tabindex="-1"></main>
+<nav id="navigation" class="bottom-nav" aria-label="Main navigation"></nav>
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+</div>
+<aside class="desktop-aside"><div class="aside-top"><span class="tiny-dot"></span> A QUIETER KIND OF APP</div><img class="aside-photo" src="assets/bhandara.webp" alt="Illustrative community kitchen scene"><div class="aside-note"><span class="eyebrow">EVERY ACT COUNTS</span><h2>Big intentions.<br>Small, daily steps.</h2><p>Your seva isn't a score to compete for. It's a journey to look back on with gratitude.</p></div><div class="aside-privacy"><span class="privacy-symbol">⌑</span><div><strong>Your journal stays yours.</strong><p>In the Android app, your entries are encrypted on your device. No account. No tracking.</p></div></div><div class="aside-legend">DESIGNED TO FEEL A LITTLE LIGHTER <span>↙</span></div></aside>
+<dialog id="sheet" class="sheet"><div class="sheet-handle" aria-hidden="true"></div><div id="sheet-content"></div></dialog>
+<input type="file" id="restore-file" accept=".seva,application/json" hidden>
+</body>
+</html>

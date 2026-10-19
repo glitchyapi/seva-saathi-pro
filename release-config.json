@@ -1,0 +1,15 @@
+{
+  "notes": {
+    "en": [
+      "A small readability refresh for journal and settings labels.",
+      "Only the changed interface stylesheet is downloaded. Your journal stays in place.",
+      "Hindi and English, encrypted backups, and personal Bhandara banners."
+    ],
+    "hi": [
+      "डायरी और सेटिंग के छोटे अक्षर अब थोड़ा अधिक स्पष्ट हैं।",
+      "केवल बदली हुई इंटरफ़ेस स्टाइलशीट डाउनलोड होगी। आपकी डायरी सुरक्षित रहती है।",
+      "हिन्दी और अंग्रेज़ी, एन्क्रिप्टेड बैकअप और व्यक्तिगत भंडारा बैनर।"
+    ]
+  },
+  "events": []
+}

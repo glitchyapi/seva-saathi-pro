@@ -1,0 +1,116 @@
+{
+  "schema": 1,
+  "channel": "stable",
+  "sequence": 1,
+  "publishedAt": "2026-10-19T19:39:02+00:00",
+  "app": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "minVersionCode": 1,
+    "apk": {
+      "url": "https://onlyfiles.com/wTwLw6MhoJ4f/seva-saathi-1.0.0.apk",
+      "bytes": 510246,
+      "sha256": "e86da4c65f3c945b83ce8b45f7e855e20f489fbd5fa4b237264fdedd3f0ca964",
+      "mirrors": [
+        "https://github.com/glitchyapi/seva-saathi-pro/releases/download/v1.0.0/Seva-Saathi.apk"
+      ]
+    }
+  },
+  "ui": {
+    "version": 1,
+    "minNative": 1,
+    "files": [
+      {
+        "path": "app.css",
+        "bytes": 26010,
+        "sha256": "a7e99109e484ede2e603c255d580f8d35a64f8f48d5504ca4896470303d528b5",
+        "url": "https://onlyfiles.com/wzw1wTMuoBmI/app.css",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/a7e99109e484ede2e603c255d580f8d35a64f8f48d5504ca4896470303d528b5"
+        ]
+      },
+      {
+        "path": "app.js",
+        "bytes": 41349,
+        "sha256": "d1176ca02d0c0a37db26da748b6aee40dc58e5b1c25f764a3bc63672e58de159",
+        "url": "https://onlyfiles.com/wnwiw6MPL815/app.js",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/d1176ca02d0c0a37db26da748b6aee40dc58e5b1c25f764a3bc63672e58de159"
+        ]
+      },
+      {
+        "path": "assets/bhandara.webp",
+        "bytes": 58584,
+        "sha256": "2116232ea2f75937fddbfc9587075e50d88b445658c2211d326a45a67dd0be30",
+        "url": "https://onlyfiles.com/wUwTwRMSL9LZ/bhandara.webp",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/2116232ea2f75937fddbfc9587075e50d88b445658c2211d326a45a67dd0be30"
+        ]
+      },
+      {
+        "path": "assets/devanagari.woff2",
+        "bytes": 230880,
+        "sha256": "d8dcc5323b6909364081200d7a3bdec85a668c3d8feda4e0e9516d8e4aa20eea",
+        "url": "https://onlyfiles.com/wkwAwOM2LBHo/devanagari.woff2",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/d8dcc5323b6909364081200d7a3bdec85a668c3d8feda4e0e9516d8e4aa20eea"
+        ]
+      },
+      {
+        "path": "assets/logo.png",
+        "bytes": 54944,
+        "sha256": "874a4179b9759b42ee07624026714c406f29e003a2f408a82379d6899e6e9214",
+        "url": "https://onlyfiles.com/wLwtwjMAoaPI/logo.png",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/874a4179b9759b42ee07624026714c406f29e003a2f408a82379d6899e6e9214"
+        ]
+      },
+      {
+        "path": "assets/logo.svg",
+        "bytes": 1575,
+        "sha256": "737acad536de9a13412f7a64807addc74572338ab2bdda5750a1f65125d6e608",
+        "url": "https://onlyfiles.com/wAwbwJMFo7qH/logo.svg",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/737acad536de9a13412f7a64807addc74572338ab2bdda5750a1f65125d6e608"
+        ]
+      },
+      {
+        "path": "assets/manrope.woff2",
+        "bytes": 31388,
+        "sha256": "93e718825304afd2055a52b04f7077ae916c3ea700ef551352bb5cd596fb233c",
+        "url": "https://onlyfiles.com/wswUwqMXLCdk/manrope.woff2",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/93e718825304afd2055a52b04f7077ae916c3ea700ef551352bb5cd596fb233c"
+        ]
+      },
+      {
+        "path": "i18n.js",
+        "bytes": 31969,
+        "sha256": "39fd0f0e4508d77ccaa788044f54c3351bed9879b975650e09b5fe3bb5efb8c4",
+        "url": "https://onlyfiles.com/w1w2wtMQLUoa/i18n.js",
+        "mirrors": [
+          "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/39fd0f0e4508d77ccaa788044f54c3351bed9879b975650e09b5fe3bb5efb8c4"
+        ]
+      },
+      {
+        "path": "index.html",
+        "bytes": 3066,
+        "sha256": "dbc3bbca5d808bb8ab5367d8a52ca52b55205c0bc81e3ff5e9600999c74ca693",
+        "url": "https://raw.githubusercontent.com/glitchyapi/seva-saathi-pro/main/docs/updates/files/dbc3bbca5d808bb8ab5367d8a52ca52b55205c0bc81e3ff5e9600999c74ca693"
+      }
+    ]
+  },
+  "notes": {
+    "en": [
+      "A small readability refresh for journal and settings labels.",
+      "Only the changed interface stylesheet is downloaded. Your journal stays in place.",
+      "Hindi and English, encrypted backups, and personal Bhandara banners."
+    ],
+    "hi": [
+      "डायरी और सेटिंग के छोटे अक्षर अब थोड़ा अधिक स्पष्ट हैं।",
+      "केवल बदली हुई इंटरफ़ेस स्टाइलशीट डाउनलोड होगी। आपकी डायरी सुरक्षित रहती है।",
+      "हिन्दी और अंग्रेज़ी, एन्क्रिप्टेड बैकअप और व्यक्तिगत भंडारा बैनर।"
+    ]
+  },
+  "events": []
+}
