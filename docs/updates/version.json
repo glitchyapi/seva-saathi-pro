@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "sequence": 1,
-  "publishedAt": "2026-10-19T19:39:02+00:00",
+  "sequence": 2,
+  "publishedAt": "2026-10-19T20:03:25+00:00",
   "app": {
-    "versionCode": 1,
-    "versionName": "1.0.0",
-    "minVersionCode": 1,
     "apk": {
-      "url": "https://onlyfiles.com/wTwLw6MhoJ4f/seva-saathi-1.0.0.apk",
       "bytes": 510246,
-      "sha256": "e86da4c65f3c945b83ce8b45f7e855e20f489fbd5fa4b237264fdedd3f0ca964",
       "mirrors": [
         "https://github.com/glitchyapi/seva-saathi-pro/releases/download/v1.0.0/Seva-Saathi.apk"
-      ]
-    }
+      ],
+      "sha256": "e86da4c65f3c945b83ce8b45f7e855e20f489fbd5fa4b237264fdedd3f0ca964",
+      "url": "https://onlyfiles.com/wTwLw6MhoJ4f/seva-saathi-1.0.0.apk"
+    },
+    "minVersionCode": 1,
+    "versionCode": 1,
+    "versionName": "1.0.0"
   },
   "ui": {
-    "version": 1,
+    "version": 2,
     "minNative": 1,
     "files": [
       {
